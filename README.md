@@ -12,7 +12,7 @@ N/A
 
 Screenshot - https://imgur.com/a/vUKesRm
 
-Website - https://ronhoover97.github.io/HoriseonSemanticUpdate/
+Website - https://ronhoover97.github.io/horiseon-semantic-update/
 
 ## Credits
 
