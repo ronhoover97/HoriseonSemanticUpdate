@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; /* Sets background color of body to white */
 }
 
 header {
@@ -28,7 +28,7 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Prioritizing Gill Sans font */
     font-size: 20px;
 }
 
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Using hero id instead of img because there is no figcaption necessary */
 #hero {
     height: 800px;
     width: 100%;
@@ -69,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
+/* Updated to main to follor semantics */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Updated to aside to follow semantics */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +191,7 @@ aside {
     font-size: 36px;
 }
 
+/* Updated to footer to follow sematics */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +199,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Updated h2 to h3 */
+footer h3 {
     font-size: 20px;
 }
